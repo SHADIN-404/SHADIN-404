@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/www.facebook.com/shadin.chudlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/shadin.chudlo" height="30" width="40" /></a>
+<a href="https://www.facebook.com/SHADIN.CHUDSE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/shadin.chudlo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
